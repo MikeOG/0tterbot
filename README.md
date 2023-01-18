@@ -1,6 +1,6 @@
 # Otter Bot
 
-- Description: A feature-rich Discord bot with a lot of animal pictures/memes and many other thingsfor Discord servers. util, fun, music, admin and so much more. Updates are once a week new features and feature requests being added. It is built on top of [Discord.Js V13.1.0](https://discord.js.org/)
+- Description: A feature-rich Discord bot with a lot of animal pictures/memes and many other thingsfor Discord servers. util, fun, music, admin and so much more. Updates are once a week new features and feature requests being added. It is built on top of [Discord.Js V14.1.0](https://discord.js.org/)
 
 #My Commands thus far
 

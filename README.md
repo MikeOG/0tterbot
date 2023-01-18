@@ -3,6 +3,8 @@
 - Description: A feature-rich Discord bot with a lot of animal pictures/memes and many other thingsfor Discord servers. util, fun, music, admin and so much more. Updates are once a week new features and feature requests being added. It is built on top of [Discord.Js V13.1.0](https://discord.js.org/)
 
 #My Commands thus far
+
+      My General commands
       /help - Do /help for the commands list & support
       /8ball - Ask away!
       /animaladvice - Get a random fact!

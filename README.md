@@ -42,13 +42,24 @@
       /stats - And get stats on OtterBot!
       /invite - Gives you the invite url for the bot!
       /invites - Gives you the invite stats of your server!
-      /support - Gives the invite link to the support discord server!      
+      /support - Gives the invite link to the support discord server! 
+      /worldclock - Gives you the current time in different timezones!
+      /yomomma - Gives you a random yo momma joke!
+      /serverinfo - Tells the User basic information about the current server!
+      /report - Report something to the servers staff team!
+      /advice - Generates some random advice to get you through your day!
       
       Moderation 
       /announce - Send an announcement to that channel
       /clear - Clear messages from a channel!
       /xpreset - Reset all users xp on your server!
       /xpuserreset - Reset a specific users xp!
+      /report-setup - Sets up the report functions for your server!
+      /report-disable - Disables the report functions for your server!
+      /ban - Ban a user from the discord server.!
+      /unban - Unban a user from the discord server.!
+      /kick - Kick a user from the discord server!
+      /mute - Mute a member from the guild!
       
 
 ## Credits

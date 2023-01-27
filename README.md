@@ -70,4 +70,4 @@
 <https://discord.gg/C94CCcge>
 
 ## Invite me
-<https://discord.com/api/oauth2/authorize?client_id=1013833567631065129&permissions=1110517509238&scope=bot%20applications.commands>
+<https://discord.com/api/oauth2/authorize?client_id=1013833567631065129&permissions=88&scope=bot%20applications.commands>

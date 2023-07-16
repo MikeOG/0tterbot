@@ -4,7 +4,7 @@
 
 #My Commands thus far
 
-      My General commands
+      My commands
 
       /server info - Pulls some basic public info about the server the command was executed in.
       /reaction-role add - Adds a reaction role emoji to specified message.

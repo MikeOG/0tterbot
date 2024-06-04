@@ -1,18 +1,10 @@
-# ![](https://i.imgur.com/6ETga27.jpg) Otter Bot Privacy Policy
+# ![](https://i.imgur.com/6ETga27.jpg) 
+    Otter Bot Privacy Policy
 
 ### Data Collected By Command and when features are enabled
+By using our bot you agree to both our Terms of Service & Privacy Policy. To opt our of your data being collected, please disable any features you do not want to use.
 
-The following may be collected when the bot joins a server and or when a user voluntarily enters this information.
-When providing data in this way, you forego any rights to the content of the data provided.
-
-- Server configurations (region, name, id, description, age, icon, channel names and channel ids)
-- Server ownership
-- List of server's members
-- List of server's roles
-- Messages sent (These are **not** stored but the bot sees them) _messages sent in the bot support server_ **are** _stored_
-- Commands sent (These **are** stored)
-- Server invites (The bot may create an invite for your server)
-- Number of commands and messages sent
+Our Discord bot stores certain Channel IDs, User IDs and Message IDs in order for most of it's features to function. These values are only read by the bot itself and not accessed by our team unless given permission to. These values are publicly available, meaning we do NOT store any sensitive information of yours. Not only that, but we also do not store Message Content itself, we rather forward it to different channels when needed (for our starboard and phone channel features). To opt out of this, simply disable your features. By running any feature disable command all data associated with it will be deleted. This also means that we CANNOT recover any lost data, if you are planning on disabling features use caution.
 
 #### All data is stored on secured servers. Maximum efforts are taken to keep collected data protected, but absolute security cannot be guaranteed. We are not liable for any damages or stolen information, in which we collect, from our servers.
 

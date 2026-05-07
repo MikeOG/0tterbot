@@ -1,55 +1,119 @@
-# ![](https://i.imgur.com/6ETga27.jpg) 
+# OtterBot Terms of Service
 
-# OtterBots Terms and Conditions
+Last updated: May 6, 2026
 
-Please read these terms and conditions carefully before using Our Service.
+## Overview
 
-Interpretation and Definitions
-Interpretation
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+These Terms of Service govern your access to and use of OtterBot, a Discord bot that provides moderation, ticketing, onboarding, automation, analytics, and community features for Discord servers.
 
-# Definitions
-For the purposes of these Terms and Conditions:
-Application means the software program provided by the Company downloaded by You on any electronic device, named OtterBot
-Application Store means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.
-Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-Country refers to: Colombia
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to OtterBot.
-Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+By inviting, using, or interacting with OtterBot, you agree to these Terms and to the OtterBot Privacy Policy.
 
-# Service refers to the Application.
-Terms and Conditions (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the Terms and Conditions Generator.
-Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+## Eligibility
 
-# Acknowledgment
-These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
-Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
-By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
-You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
-The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
-We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
+You may only use OtterBot in accordance with:
 
-# Termination
-We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
-Upon termination, Your right to use the Service will cease immediately.
+- Discord's Terms of Service,
+- Discord's Community Guidelines,
+- Discord's Developer Terms and Developer Policy where applicable,
+- all applicable local, national, and international laws and regulations.
 
-# Limitation of Liability
-Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
-To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
-Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
+OtterBot is not intended for users who are below the minimum age required to use Discord in their jurisdiction.
 
-# Governing Law
-The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
+## Service Scope
 
-# Disputes Resolution
-If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
+OtterBot is provided as a Discord bot service. Features may include, depending on configuration:
 
-# By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
+- moderation tools,
+- ticket systems and transcripts,
+- automoderation and logging,
+- onboarding and verification,
+- birthdays, suggestions, starboard, and counting,
+- custom automations and scheduled content,
+- analytics and debugging tools.
 
-# Contact Us
-If you have any questions about these Terms and Conditions, You can contact us:
+Some features are optional and controlled by server administrators.
 
-By email: twitchm1keog@gmail.com
-Or by joining our support server - [https://discord.gg/Jpk49tkq](https://discord.gg/fdCuRTT62Y)
+## Server Administrator Responsibilities
+
+If you add or manage OtterBot in a server, you are responsible for:
+
+- enabling only the features you want to use,
+- configuring channels, roles, logs, ticket settings, and exports appropriately,
+- ensuring your server's use of OtterBot complies with Discord's rules and applicable law,
+- informing your members of server-side bot usage where required,
+- reviewing and managing server content generated by the bot, including logs and transcripts.
+
+Server administrators are also responsible for how they use moderation, automation, export, and support features.
+
+## Acceptable Use
+
+You may not use OtterBot to:
+
+- violate Discord's Terms, Community Guidelines, or platform policies,
+- harass, threaten, abuse, or target others,
+- facilitate spam, raids, scams, fraud, or deceptive practices,
+- distribute unlawful, harmful, or abusive content,
+- attempt unauthorized access to systems, data, or accounts,
+- misuse moderation, export, support, or debugging features,
+- interfere with the bot's stability, availability, or normal operation.
+
+We may restrict access to any server or user that misuses the bot or creates risk for the service or other users.
+
+## Data and Privacy
+
+Your use of OtterBot is also governed by the OtterBot Privacy Policy, which explains what data may be processed, how it may be used, and what export/deletion tools are available.
+
+By using OtterBot, you acknowledge that:
+
+- some features require processing of Discord API data to function,
+- some Discord-hosted copies of bot-generated content, such as posted logs or transcripts, may remain in Discord channels until removed from those channels,
+- privacy and deletion tooling applies only to supported data scopes as described in the Privacy Policy.
+
+## Availability and Changes
+
+OtterBot is provided on an "as available" basis. Features may be added, changed, limited, or removed at any time, including for maintenance, safety, legal, platform, or operational reasons.
+
+We do not guarantee uninterrupted availability, compatibility, or error-free performance.
+
+## Suspension and Termination
+
+We may suspend, restrict, or terminate access to OtterBot, in whole or in part, at any time and without prior notice if:
+
+- you violate these Terms,
+- your use creates security, legal, operational, or platform risk,
+- Discord requires or requests enforcement action,
+- the bot, service, or a feature is discontinued.
+
+You may stop using OtterBot at any time by removing it from your server or discontinuing interaction with it.
+
+## Disclaimers
+
+OtterBot is provided "as is" and "as available" to the maximum extent permitted by law.
+
+We make no warranties or guarantees regarding:
+
+- uptime or uninterrupted availability,
+- fitness for a particular purpose,
+- data recovery,
+- compatibility with every server setup,
+- protection against every moderation or abuse scenario.
+
+## Limitation of Liability
+
+To the maximum extent permitted by applicable law, OtterBot and its operators will not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of data, revenue, profits, goodwill, or business opportunity arising from or related to the use of or inability to use the service.
+
+Nothing in these Terms excludes liability where such exclusion is not permitted by applicable law.
+
+## Governing Rules
+
+These Terms are intended to be interpreted consistently with applicable law and with Discord platform requirements. If a provision is found unenforceable, the remaining provisions will continue to apply to the maximum extent permitted.
+
+## Changes to These Terms
+
+We may update these Terms from time to time. Continued use of OtterBot after updated Terms become effective means you accept the revised Terms.
+
+## Contact
+
+If you have questions about these Terms or need support, use the OtterBot support server:
+
+- Support Server: https://discord.gg/C94CCcge
